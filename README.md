@@ -11,7 +11,7 @@ cd WHS_securecoding
 pip install -r requirements.txt
 python app.py
 
-##⚠️ 추가 보안 적용 사항
+## ⚠️ 추가 보안 적용 사항
 비밀번호 해싱 (bcrypt)
 
 XSS 방어 (escape)
